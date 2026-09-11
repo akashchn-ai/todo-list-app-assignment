@@ -1,17 +1,24 @@
-# todo_list_app
+# Assignment 5: Todo List App with State
 
-A new Flutter project.
+**Submitted By:** Akash Chauhan (B.Tech Computer Science)  
+**Submitted To:** Prof. Poonam Suresh Khanvilkar (Assistant Professor - Computer Science, Kharghar)  
 
-## Getting Started
+**🔗 [Click here to view the GitHub Repository](https://github.com/akashchn-ai/todo-list-app-assignment)**
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 📱 Project Overview
+This Flutter application is built to fulfill the requirements of Assignment 5. It is a fully functional Todo List application that demonstrates state management in Flutter using `StatefulWidget` and `setState()`. 
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## ✨ Key Features & State Operations
+As per the assignment requirements, the following operations have been successfully implemented:
+*   **Add Tasks:** Users can input new tasks via a dynamic dialog box. The UI updates instantly using `setState` to append the new task to the internal data list.
+*   **Delete Tasks:** Each task features a trailing delete icon. Tapping it triggers a `setState` callback that removes the specific item from the list and refreshes the view.
+*   **Mark-Complete:** Tasks include a leading checkbox. Toggling the checkbox updates the task's completion status via `setState`, applying a visual strikethrough effect and graying out the text.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 How to Run the Project
+To run this project locally on your machine, follow these steps:
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/akashchn-ai/todo-list-app-assignment.git](https://github.com/akashchn-ai/todo-list-app-assignment.git)
