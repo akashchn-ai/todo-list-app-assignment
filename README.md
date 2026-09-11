@@ -6,6 +6,16 @@
 **🔗 [Click here to view the GitHub Repository](https://github.com/akashchn-ai/todo-list-app-assignment)**
 
 ---
+<img width="1470" height="956" alt="Screenshot 2026-09-11 at 6 30 50 PM" src="https://github.com/user-attachments/assets/8eaa80ff-1c33-42fc-840a-b182a82d6f1c" />
+<img width="1470" height="956" alt="Screenshot 2026-09-11 at 6 30 24 PM" src="https://github.com/user-attachments/assets/2f578053-82b7-46b0-95d7-3e112e4cf388" />
+
+
+
+<img width="1470" height="956" alt="Screenshot 2026-09-11 at 6 31 20 PM" src="https://github.com/user-attachments/assets/082949af-2a06-4c62-9d17-b9126ff24dcb" />
+
+<img width="1470" height="956" alt="Screenshot 2026-09-11 at 6 31 38 PM" src="https://github.com/user-attachments/assets/76bd2be9-80df-48e9-b62e-82248a12872e" />
+
+
 
 ## 📱 Project Overview
 This Flutter application is built to fulfill the requirements of Assignment 5. It is a fully functional Todo List application that demonstrates state management in Flutter using `StatefulWidget` and `setState()`. 
